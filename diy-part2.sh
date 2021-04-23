@@ -12,4 +12,4 @@
 
 # Modify default IP
 sed -i 's/192.168.1.1/192.168.9.1/g' package/base-files/files/bin/config_generate
-sed -i 's/Openwrt/BeikeYun/g' package/base-files/files/bin/config_generate
+sed -i 's/Openwrt/N1/g' package/base-files/files/bin/config_generate
